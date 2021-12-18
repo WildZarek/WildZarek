@@ -15,12 +15,22 @@
 
 - :video_game: Fun fact **I play games very much**
 
+## :computer: Operating Systems
+
+<p align="left">
+    <a href="https://www.parrotsec.org/" title="ParrotOS" target="_blank"><img src="https://parrotsec.org/images/logo.png" alt="ParrotOS" width="32px" height="32px"></a>
+    <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="32px" height="32px"></a>
+    <a href="https://archlinux.org/" title="Archlinux" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Archlinux" width="32px" height="32px"></a>
+</p>
+
 ## :rocket: Languages and Tools:
 
 <p align="left">
     <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
     <a href="https://www.sublimetext.com/" title="Sublime Text" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="32px" height="32px"></a>
+    <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
     <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a> 
+    <a href="https://apache.org/" title="Apache" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="32px" height="32px"></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>     
     <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"> </a> 
