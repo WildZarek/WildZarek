@@ -43,7 +43,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
