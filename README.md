@@ -11,7 +11,7 @@
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
 
-- :envelop_with_arror: How to reach me **https://t.me/WildZarek**
+- :envelop_with_arrow: How to reach me **https://t.me/WildZarek**
 
 - :video_game: Fun fact **I play games very much**
 
