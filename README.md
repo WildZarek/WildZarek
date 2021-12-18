@@ -7,7 +7,7 @@
 
 - :seedling: I'm currently learning **Ethical Hacking**
 
-- :computer: I'm currently playing in  **HackTheBox**
+- :computer: I'm currently playing in  **[HackTheBox](https://www.hackthebox.com/)**
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
 
