@@ -3,17 +3,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
 
-## 🙋‍♂️ About Me
+## 👤 About Me
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🇪🇸 I'm from **Spain**
 
-- 🔭 I'm currently playing in  **HackTheBox**
+- 🌱 I'm currently learning **Ethical Hacking**
+
+- 💻 I'm currently playing in  **HackTheBox**
 
 - 👨‍💻 My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
 
-- 📫 How to reach me **https://t.me/WildZarek**
+- 📩 How to reach me **https://t.me/WildZarek**
 
-- ⚡ Fun fact **I play games very much**
+- 🎮 Fun fact **I play games very much**
 
 ## 🚀 Languages and Tools:
 
@@ -52,8 +54,8 @@
 
 ## Connect with me:
 <p align="left">
-    <a href = "https://www.discord"><img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/></a>
-    <a href = "https://t.me/WildZarek"><img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/></a>
-    <a href = "https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>
-    <a href = "https://github.com/WildZarek"><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
+    <a href = "https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/50/000000/discord.png"/></a>
+    <a href = "https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png"/></a>
+    <a href = "https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/></a>
+    <a href = "https://github.com/WildZarek"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png"/></a>
 </p>
