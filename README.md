@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="./hacking.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
-<h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | Red Team 🔴</h3><img src="https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek">
+<h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek"></p>
 
 ## :wolf: About Me
 
