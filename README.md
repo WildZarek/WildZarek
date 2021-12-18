@@ -40,8 +40,7 @@
     <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
     <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
-</p>
-[-icons from geticon](https://github.com/get-icon/geticon "Get Icon Project")
+</p>[geticon](https://github.com/get-icon/geticon "Get Icon Project")
 
 <br/>
 
