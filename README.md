@@ -1,9 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="./dedsec.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./hacking.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
-
-# Welcome to my cave!
 
 ## :wolf: About Me
 
@@ -30,6 +28,7 @@
     <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
     <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
+    <br/>
     ([geticon](https://github.com/get-icon/geticon "Get Icon Project"))
 </p>
 
