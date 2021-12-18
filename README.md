@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
 
+# Welcome to my cave!
+
 ## :wolf: About Me
 
 - :seedling: I'm currently learning **Ethical Hacking**
@@ -17,13 +19,17 @@
 
 ## :rocket: Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>     
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="48px" height="48px"></a>
+    <a href="https://www.sublimetext.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="48px" height="48px"></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="48px" height="48px"></a> 
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="48px" height="48px"></a>     
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="48px" height="48px"></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="48px" height="48px"> </a> 
+    <a href="https://www.php.net/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="48px" height="48px"></a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="48px" height="48px"></a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="48px" height="48px"></a>
+    ([geticon](https://github.com/get-icon/geticon "Get Icon Project"))
 </p>
 
 <br/>
