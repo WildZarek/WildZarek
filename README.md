@@ -5,17 +5,15 @@
 
 ## 👤 About Me
 
-- 🇪🇸 I'm from **Spain**
+- :seedling: I'm currently learning **Ethical Hacking**
 
-- 🌱 I'm currently learning **Ethical Hacking**
+- :computer: I'm currently playing in  **HackTheBox**
 
-- 💻 I'm currently playing in  **HackTheBox**
+- :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
 
-- 👨‍💻 My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
+- :envelop_with_arror: How to reach me **https://t.me/WildZarek**
 
-- 📩 How to reach me **https://t.me/WildZarek**
-
-- 🎮 Fun fact **I play games very much**
+- :video_game: Fun fact **I play games very much**
 
 ## 🚀 Languages and Tools:
 
