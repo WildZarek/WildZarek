@@ -35,13 +35,12 @@
     <a href="https://apache.org/" title="Apache" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="32px" height="32px"></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>     
     <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a> 
     <a href="https://www.php.net/" title="PHP" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="32px" height="32px"></a>
     <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
     <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
 </p>
-[-icons from geticon](https://github.com/get-icon/geticon "Get Icon Project")
 
 <br/>
 <br/>
