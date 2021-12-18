@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
 
-## 👤 About Me
+## :wolf: About Me
 
 - :seedling: I'm currently learning **Ethical Hacking**
 
@@ -11,11 +11,11 @@
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
 
-- :envelop_with_arrow: How to reach me **https://t.me/WildZarek**
+- :incoming_envelope: How to reach me **https://t.me/WildZarek**
 
 - :video_game: Fun fact **I play games very much**
 
-## 🚀 Languages and Tools:
+## :rocket: Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## :bar_chart: My Github Stats
 
   <br/>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
