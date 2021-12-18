@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek&left_color=green&right_color=red)
 
 ## :wolf: About Me
 
@@ -14,6 +15,11 @@
 - :incoming_envelope: How to reach me **https://t.me/WildZarek**
 
 - :video_game: Fun fact **I play games very much**
+
+## HackTheBox Rank
+<p align="center">
+	<script src="https://www.hackthebox.eu/badge/18979"></script>
+</p>
 
 ## :computer: Operating Systems
 
