@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="./hacking.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
-<h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>![visitors](https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek)
+<h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek)
 
 ## :wolf: About Me
 
@@ -17,7 +18,9 @@
 
 ## HackTheBox Rank
 <p align="center">
-	<script src="https://www.hackthebox.eu/badge/18979"></script>
+	<a href="https://app.hackthebox.eu/profile/18979" target="_blank">
+		<img src="http://www.hackthebox.eu/badge/image/18979" alt="HackTheBox">
+	</a>
 </p>
 
 ## :computer: Operating Systems
