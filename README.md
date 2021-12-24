@@ -44,8 +44,6 @@
     <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
 </p>
 
-<br/>
-
 ## :globe_with_meridians: Web Technologies:
 
 <p align="left">
