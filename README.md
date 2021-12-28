@@ -18,9 +18,7 @@
 
 ## HackTheBox Rank
 <p align="left">
-	<a href="https://app.hackthebox.eu/profile/18979" target="_blank">
-		<img src="http://www.hackthebox.eu/badge/image/18979" alt="HackTheBox">
-	</a>
+    <script src="https://www.hackthebox.eu/badge/18979"></script>
 </p>
 
 ## :computer: Operating Systems
