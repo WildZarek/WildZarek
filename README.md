@@ -17,7 +17,12 @@
 - :video_game: Fun fact **I play games very much**
 
 ## HackTheBox Rank
-<script src="https://www.hackthebox.eu/badge/18979"></script>
+
+<p align="center">
+	<a href="http://www.hackthebox.eu/badge/image/18979" target="_blank">
+        <img src="http://www.hackthebox.eu/badge/image/18979" alt="Hack The Box">
+    </a>
+</p>
 
 ## :computer: Operating Systems
 
