@@ -1,8 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="./hacking.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm WildZarek</h1>
-<h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek"></p>
+<p align="center">
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm WildZarek</h1>
+<h3>Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
+<img src="https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek">
+<a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="mailto:wildzarek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wildzarek@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 ## :wolf: About Me
 
@@ -77,11 +81,6 @@
 
 <br/>
 <br/>
-
-<p align="center">
-<a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
-<a href="mailto:wildzarek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wildzarek@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
 
 ## Contact me:
 <p align="left">
