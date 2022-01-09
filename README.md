@@ -78,11 +78,16 @@
 <br/>
 <br/>
 
+<p align="center">
+<a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="mailto:wildzarek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wildzarek@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
 ## Contact me:
 <p align="left">
-    <a href = "https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/discord--v1.png"/></a>
-    <a href = "https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png"/></a>
-    <a href = "https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/50/4a90e2/twitter.png"/></a>
-    <a href = "https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/50/4a90e2/twitch.png"/></a>
-    <a href = "https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/50/4a90e2/github.png"/></a>
+    <a href = "https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/48/4a90e2/discord--v1.png"/></a>
+    <a href = "https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/48/4a90e2/telegram-app.png"/></a>
+    <a href = "https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/48/4a90e2/twitter.png"/></a>
+    <a href = "https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/48/4a90e2/twitch.png"/></a>
+    <a href = "https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/48/4a90e2/github.png"/></a>
 </p>
