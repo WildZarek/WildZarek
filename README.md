@@ -47,6 +47,7 @@
     <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a> 
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
     <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
+    <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
 </p>
 
 ## :globe_with_meridians: Web Technologies:
