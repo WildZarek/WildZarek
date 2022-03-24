@@ -69,7 +69,7 @@
     </a>
 </p>
 
-## :page_with_curl: CVE's Published
+## :page_with_curl: CVE's
 
 <br/>
 This is the list of my discovered and published CVE's:
