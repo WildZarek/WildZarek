@@ -69,6 +69,13 @@
     </a>
 </p>
 
+## :page_with_curl: CVE's Published
+
+<br/>
+This is the list of my discovered and published CVE's:
+
+- [CVE-2022-23242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23242)
+
 ## :bar_chart: My Github Stats
 
 <br/>
