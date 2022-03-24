@@ -18,7 +18,7 @@
 
 - :incoming_envelope: How to reach me **https://t.me/WildZarek**
 
-- :video_game: Fun fact: **I play games sometimes and I did it on streaming as hobby. Currently I'm not streaming, but hope do it again soon.**
+- :video_game: Fun fact: **I play games sometimes and I did it on streaming as hobby. I'm not streaming from some time ago.**
 
 ## HackTheBox Rank
 
