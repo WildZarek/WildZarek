@@ -31,7 +31,7 @@
 ## :computer: Operating Systems
 
 <p align="left">
-    <a href="https://www.parrotsec.org/" title="ParrotOS" target="_blank"><img src="https://parrotsec.org/images/logo.png" alt="ParrotOS" width="32px" height="32px"></a>
+    <a href="https://www.parrotsec.org/" title="ParrotOS" target="_blank"><img src="https://parrotsec.org/favicon.png" alt="ParrotOS" width="32px" height="32px"></a>
     <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="32px" height="32px"></a>
     <a href="https://archlinux.org/" title="Archlinux" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Archlinux" width="32px" height="32px"></a>
     <a href="https://www.microsoft.com/es-es/software-download/windows10" title="Windows 10" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows 10" width="32px" height="32px"></a>
