@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=WildZarek/WildZarek">
   <a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
-  <a href="mailto:wildzarek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wildzarek@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ## :wolf: About Me
