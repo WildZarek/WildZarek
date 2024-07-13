@@ -9,7 +9,7 @@
 
 ## :wolf: About Me
 
-- :telescope: As a student from 42 Málaga, I'm passionate about Cybersecurity and programming.
+- :telescope: As a student from 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
 
 - :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
@@ -17,8 +17,7 @@
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)** (Write-Up posts)
 
-- :incoming_envelope: How to reach me **https://t.me/WildZarek**
-![X (formerly Twitter)](https://img.shields.io/twitter/follow/:user)
+- :incoming_envelope: How to reach me:
 <a href="https://www.linkedin.com/in/wildzarek/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn Badge" style="height: 20px;"/>
