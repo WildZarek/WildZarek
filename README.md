@@ -17,8 +17,7 @@
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)** (Write-Up posts)
 
-- :incoming_envelope: How to reach me:
-<a href="https://www.linkedin.com/in/wildzarek/">
+- :incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/wildzarek/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn Badge" style="height: 20px;"/>
 </a>
