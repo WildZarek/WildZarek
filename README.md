@@ -9,13 +9,20 @@
 
 ## :wolf: About Me
 
-- :seedling: I'm currently learning **Ethical Hacking**
+- :telescope: As a student from 42 Málaga, I'm passionate about Cybersecurity and programming.
 
-- :computer: I'm currently playing in  **[HackTheBox](https://www.hackthebox.com/)**
+- :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
-- :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)**
+- :computer: I was practicing in **[HackTheBox](https://www.hackthebox.com/)** sometime ago.
+
+- :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)** (Write-Up posts)
 
 - :incoming_envelope: How to reach me **https://t.me/WildZarek**
+![X (formerly Twitter)](https://img.shields.io/twitter/follow/:user)
+<a href="https://www.linkedin.com/in/wildzarek/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn Badge" style="height: 20px;"/>
+</a>
 
 - :video_game: Fun fact: **I play games sometimes and I did it on streaming as hobby. I'm not streaming from some time ago.**
 
@@ -42,7 +49,8 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
   <a href="https://www.sublimetext.com/" title="Sublime Text" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="32px" height="32px"></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
-  <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a> 
+  <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px">
   <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
   <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
   <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
