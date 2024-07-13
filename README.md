@@ -22,7 +22,7 @@
     alt="LinkedIn Badge" style="height: 20px;"/>
 </a>
 
-- :video_game: Fun fact: **I play games sometimes and I did it on streaming as hobby. I'm not streaming from some time ago.**
+- :video_game: Fun fact: **Sometimes I play videogames and I did it on streaming as hobby. I'm not streaming from some time ago.**
 
 ## HackTheBox Rank
 
@@ -45,7 +45,6 @@
 
 <p align="left">
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
-  <a href="https://www.sublimetext.com/" title="Sublime Text" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="32px" height="32px"></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px">
@@ -58,8 +57,9 @@
 
 <p align="left">
   <a href="https://apache.org/" title="Apache" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="32px" height="32px"></a>
-  <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>     
-  <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a> 
+  <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>
+  <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a>
+  <a href="https://es.react.dev/" title="React" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="CSS3" width="32px" height="32px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a> 
   <a href="https://www.php.net/" title="PHP" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="32px" height="32px"></a>
   <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
@@ -96,9 +96,10 @@ This is the list of my discovered CVE's:
 
 ## Contact me:
 <p align="left">
+  <a href="mailto:dsarmien@student.42malaga.com"><img src="https://img.icons8.com/ios-filled/38/4a90e2/email.png"/></a>
   <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
   <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
-  <a href="https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
+  <a href="https://x.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitterx.png"/></a>
   <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
   <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
 </p>
