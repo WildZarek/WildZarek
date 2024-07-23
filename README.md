@@ -75,6 +75,7 @@
 
 <br/>
 This is the list of my discovered CVE's:
+
 - [CVE-2022-23242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23242)
 
 ## :bar_chart: My Github Stats
