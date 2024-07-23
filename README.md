@@ -87,7 +87,7 @@ This is the list of my discovered CVE's:
 <br/>
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graphh"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
