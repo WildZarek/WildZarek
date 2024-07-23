@@ -87,12 +87,10 @@ This is the list of my discovered CVE's:
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graphh"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
 
 ## Contact me:
 <p align="left">
@@ -103,3 +101,6 @@ This is the list of my discovered CVE's:
   <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
   <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
 </p>
+
+## Visits:
+![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
