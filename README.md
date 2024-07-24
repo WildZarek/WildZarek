@@ -94,24 +94,19 @@ This is the list of my discovered CVE's:
 
 ## Contact me:
 <p align="left">
-  <a href="mailto:dsarmien@student.42malaga.com"><img src="https://img.icons8.com/ios-filled/38/4a90e2/email.png"/></a>
-  <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
-  <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
-  <a href="https://x.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitterx.png"/></a>
-  <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
-  <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
+  <a href="mailto:dsarmien@student.42malaga.com" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/email.png"/></a>
+  <a href="https://discordapp.com/channels/@me/712878759954481222/" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
+  <a href="https://t.me/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
+  <a href="https://x.com/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitterx.png"/></a>
+  <a href="https://www.twitch.tv/wildzarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
+  <a href="https://github.com/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dsarmien@student.42malaga.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/712878759954481222/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/WildZarek)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek)
 
 ## Visits:
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
