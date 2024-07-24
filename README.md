@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="./wrench.jfif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm WildZarek</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/wildzarek/">WildZarek</a></h1>
 <h3 align="center">Cybersecurity Analyst | Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
 <p align="center">
   <a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
@@ -15,11 +15,6 @@
 - :computer: I was practicing in **[HackTheBox](https://www.hackthebox.com/)** sometime ago.
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)** (Write-Up posts)
-
-- :incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/wildzarek/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Badge" style="height: 20px;"/>
-</a>
 
 - :video_game: Fun fact: **Sometimes I play videogames and I did it on streaming as hobby. I'm not streaming from some time ago.**
 
