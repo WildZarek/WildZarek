@@ -18,7 +18,7 @@
 
 - :incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/wildzarek/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Badge" style="height: 20px;"/>
+    alt="LinkedIn Badge" style="height: 16px;"/>
 </a>
 
 - :video_game: Fun fact: **Sometimes I play videogames and I did it on streaming as hobby. I'm not streaming from some time ago.**
@@ -93,14 +93,6 @@ This is the list of my discovered CVE's:
 <br/>
 
 ## Contact me:
-<p align="left">
-  <a href="mailto:dsarmien@student.42malaga.com" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/email.png"/></a>
-  <a href="https://discordapp.com/channels/@me/712878759954481222/" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
-  <a href="https://t.me/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
-  <a href="https://x.com/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitterx.png"/></a>
-  <a href="https://www.twitch.tv/wildzarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
-  <a href="https://github.com/WildZarek" target="_blank"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
-</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dsarmien@student.42malaga.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
