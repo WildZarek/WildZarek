@@ -46,7 +46,7 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px">
+  <a href="#" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
   <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
   <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
   <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
@@ -101,6 +101,17 @@ This is the list of my discovered CVE's:
   <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
   <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
 </p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
 
 ## Visits:
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
