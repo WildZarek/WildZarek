@@ -18,7 +18,7 @@
 
 - :incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/wildzarek/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Badge" style="height: 16px;"/>
+    alt="LinkedIn Badge" style="height: 20px;"/>
 </a>
 
 - :video_game: Fun fact: **Sometimes I play videogames and I did it on streaming as hobby. I'm not streaming from some time ago.**
@@ -26,7 +26,7 @@
 ## HackTheBox Rank
 
 <p align="left">
-  <a href="http://www.hackthebox.eu/badge/image/18979" target="_blank">
+  <a href="https://app.hackthebox.com/profile/18979" target="_blank">
     <img src="http://www.hackthebox.eu/badge/image/18979" alt="HackTheBox">
   </a>
 </p>
