@@ -58,14 +58,6 @@
   <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
 </p>
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
 ## :page_with_curl: CVE's
 
 <br/>
@@ -74,6 +66,12 @@ This is the list of my discovered CVE's:
 - [CVE-2022-23242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23242)
 
 ## :bar_chart: My Github Stats
+
+<p align="center">
+  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
