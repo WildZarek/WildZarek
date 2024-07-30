@@ -39,6 +39,7 @@
 ## :rocket: Languages and Tools:
 
 <p align="left">
+  <a href="https://www.vim.org/" title="VIM" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/vim.svg" alt="VIM" width="32px" height="32px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
