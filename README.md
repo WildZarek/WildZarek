@@ -29,6 +29,7 @@
 ## :computer: Operating Systems
 
 <p align="left">
+  <a href="https://www.linux.org/" title="Linux" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32px" height="32px"/></a>
   <a href="https://www.parrotsec.org/" title="ParrotOS" target="_blank"><img src="https://parrotsec.org/favicon.png" alt="ParrotOS" width="32px" height="32px"></a>
   <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="32px" height="32px"></a>
   <a href="https://archlinux.org/" title="Archlinux" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Archlinux" width="32px" height="32px"></a>
@@ -41,7 +42,7 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
-  <a href="#" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
+  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
   <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
   <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="32px" height="32px"></a>
   <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
@@ -50,11 +51,14 @@
 ## :globe_with_meridians: Web Technologies:
 
 <p align="left">
+  <a href="https://www.markdownguide.org/basic-syntax/" title="Markdown" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/markdown.svg" alt="Markdown" width="32px" height="32px"></a>
   <a href="https://apache.org/" title="Apache" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="32px" height="32px"></a>
   <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>
   <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a>
+  <a href="https://nodejs.org" title="NodeJS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="NodeJS" width="32px" height="32px"/></a>
   <a href="https://es.react.dev/" title="React" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="CSS3" width="32px" height="32px"></a>
+  <a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="32px" height="32px"/></a>
   <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
 </p>
 
