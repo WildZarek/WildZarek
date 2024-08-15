@@ -37,14 +37,19 @@
   <a href="https://www.microsoft.com/es-es/software-download/windows10" title="Windows 10" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows 10" width="32px" height="32px"></a>
 </p>
 
-## :rocket: Languages and Tools
+## :rocket: Programming Languages
+
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
+  <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
+  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
+</p>
+
+## :wrench: Dev Tools
 
 <p align="left">
   <a href="https://www.vim.org/" title="VIM" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/vim.svg" alt="VIM" width="32px" height="32px"></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
-  <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
-  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
   <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
   <a href="https://nodejs.org" title="Node.js" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="Node.js" width="32px" height="32px"/></a>
   <a href="https://www.npmjs.com/" title="Npmjs" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm-logo.svg" alt="Npmjs" width="32px" height="32px"></a>
@@ -52,14 +57,14 @@
   <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
 </p>
 
-## :dvd: Database Technologies
+## :dvd: Databases
 
 <p align="left">
   <a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="32px" height="32px"/></a>
   <a href="https://dev.mysql.com/" title="MySQL" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="32px" height="32px"></a>
 </p>
 
-## :globe_with_meridians: Web Technologies
+## :globe_with_meridians: Front End Web Development
 
 <p align="left">
   <a href="https://www.markdownguide.org/basic-syntax/" title="Markdown" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/markdown.svg" alt="Markdown" width="32px" height="32px"></a>
