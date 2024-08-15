@@ -84,9 +84,7 @@ This is the list of my discovered CVE's:
 ## :bar_chart: My Github Stats
 
 <p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
-  </a>
+    <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
 </p>
 
 <br/>
@@ -108,11 +106,11 @@ This is the list of my discovered CVE's:
 
 ## Contact me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dsarmien@student.42malaga.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/712878759954481222/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/WildZarek)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsarmien@student.42malaga.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/712878759954481222/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WildZarek)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg??style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek)
 
 ## Visits:
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
