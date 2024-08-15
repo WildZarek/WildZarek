@@ -110,7 +110,7 @@ This is the list of my discovered CVE's:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/712878759954481222/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WildZarek)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg??style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek)
 
 ## Visits:
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
