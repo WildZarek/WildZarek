@@ -43,7 +43,7 @@
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
   <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
-  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
+  <a href="https://isocpp.org/" title="C++" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="32px" height="32px"></a>
 </p>
 
 ## :wrench: Dev Tools
