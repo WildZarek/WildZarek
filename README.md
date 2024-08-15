@@ -92,15 +92,15 @@ This is the list of my discovered CVE's:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildZarek&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img alt="WildZarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildZarek&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WildZarek&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WildZarek&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 <br/>
