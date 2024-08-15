@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/wildzarek/">WildZarek</a></h1>
 <h3 align="center">42 Málaga Student | Cybersecurity Analyst | Jr. Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
 <p align="center">
-  <a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://wildzarek.github.io" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a><a href="https://wakatime.com/@0b845aa6-d061-4358-81b1-77d5029d7d59"><img src="https://wakatime.com/badge/user/0b845aa6-d061-4358-81b1-77d5029d7d59.svg" alt="Total time coded since Aug 15 2024" /></a>
 </p>
 
 ## :wolf: About Me
@@ -42,6 +42,7 @@
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="32px" height="32px"></a>
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
+  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
   <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
 </p>
 
