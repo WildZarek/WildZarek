@@ -1,14 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="./wrench.jfif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./header_1500x500.jfif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/wildzarek/">WildZarek</a></h1>
-<h3 align="center">Cybersecurity Analyst | Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
+<h3 align="center">42 Málaga Student | Cybersecurity Analyst | Jr. Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
 <p align="center">
   <a href="https://wildzarek.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>
 </p>
 
 ## :wolf: About Me
 
-- :telescope: As a student from 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
+- :books: As a student from 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
 
 - :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
@@ -31,6 +31,7 @@
 <p align="left">
   <a href="https://www.linux.org/" title="Linux" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32px" height="32px"/></a>
   <a href="https://www.parrotsec.org/" title="ParrotOS" target="_blank"><img src="https://parrotsec.org/favicon.png" alt="ParrotOS" width="32px" height="32px"></a>
+  <a href="https://www.kali.org/" title="Kali Linux" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/kali-logo.svg" alt="Kali Linux" width="32px" height="32px"></a>
   <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" alt="Debian" width="32px" height="32px"></a>
   <a href="https://archlinux.org/" title="Archlinux" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Archlinux" width="32px" height="32px"></a>
   <a href="https://www.microsoft.com/es-es/software-download/windows10" title="Windows 10" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows 10" width="32px" height="32px"></a>
