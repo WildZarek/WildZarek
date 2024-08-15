@@ -46,6 +46,7 @@
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
   <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="32px" height="32px"></a>
   <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
+  <a href="https://nodejs.org" title="Node.js" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="Node.js" width="32px" height="32px"/></a>
   <a href="https://www.npmjs.com/" title="Npmjs" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm-logo.svg" alt="Npmjs" width="32px" height="32px"></a>
   <a href="https://pm2.io/" title="PM2" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/pm2.svg" alt="PM2" width="32px" height="32px"></a>
   <a href="https://obsidian.md/" title="Obsidian" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/294812798daac8df0fc70bf31928ba93102aff35/ef0e7/assets/images/tool-icons/obsidian.png" alt="Obsidian" width="32px" height="32px"></a>
@@ -65,7 +66,6 @@
   <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>
   <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a>
-  <a href="https://nodejs.org" title="NodeJS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="NodeJS" width="32px" height="32px"/></a>
   <a href="https://es.react.dev/" title="React" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="CSS3" width="32px" height="32px"></a>
 </p>
 
