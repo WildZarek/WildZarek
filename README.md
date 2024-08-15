@@ -85,22 +85,22 @@ This is the list of my discovered CVE's:
 
 <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=blueberry-duo&hide_border=true&mode=weekly" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildZarek&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildZarek&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&" /></a>
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WildZarek&theme=chartreuse-dark&hide_border=true" /></a>
 </p>
 
 <br/>
