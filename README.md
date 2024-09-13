@@ -6,12 +6,6 @@
   <a href="https://wildzarek.github.io" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>  <a href="https://wakatime.com/@WildZarek" target="_blank"><img src="https://wakatime.com/badge/user/0b845aa6-d061-4358-81b1-77d5029d7d59.svg" alt="Total time coded since Sep 10 2024" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/dsarmien?UM6P=off" alt="dsarmien's 42 stats">
-  </a>
-</p>
-
 ## :wolf: About Me
 
 - :books: As a student from 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
