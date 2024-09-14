@@ -3,12 +3,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/wildzarek/">WildZarek</a></h1>
 <h3 align="center">42 Málaga Student | Cybersecurity Analyst | Jr. Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
 <p align="center">
-  <a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?style=flat&logo=42&logoColor=white" /></a> <a href="https://wildzarek.github.io" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>  <a href="https://wakatime.com/@WildZarek" target="_blank"><img src="https://wakatime.com/badge/user/0b845aa6-d061-4358-81b1-77d5029d7d59.svg" alt="Total time coded since Sep 10 2024" /></a>
+  <a href="https://wildzarek.github.io" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?style=flat&logo=google-chrome"></a>  <a href="https://wakatime.com/@WildZarek" target="_blank"><img src="https://wakatime.com/badge/user/0b845aa6-d061-4358-81b1-77d5029d7d59.svg" alt="Total time coded since Sep 10 2024" /></a>
 </p>
 
 ## :wolf: About Me
 
-- :books: As a student from 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
+- :books: As a student from <a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?style=flat&logo=42&logoColor=white" /></a>, I'm passionate about **Cybersecurity** and **Programming**.
 
 - :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
