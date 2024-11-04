@@ -12,11 +12,18 @@
 
 - :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
-- :computer: I was practicing in **[HackTheBox](https://www.hackthebox.com/)** sometime ago.
+- :computer: I am practicing in **[HackTheBox](https://www.hackthebox.com/)** sometimes. Solving challenges, CTF's and machines.
 
 - :link: My website is available at **[wildzarek.github.io](https://wildzarek.github.io/)** (Write-Up posts)
 
 - :video_game: Fun fact: **Sometimes I play videogames and I did it on streaming as hobby. I'm not streaming from some time ago.**
+
+## :interrobang: Campus 42
+
+Campus 42 is an innovative programming school that offers an educational approach without traditional teachers or classes.
+
+With a project-based learning method and peer-to-peer collaboration,
+students develop technical and problem-solving skills in a dynamic and challenging environment.
 
 ## HackTheBox Rank
 
