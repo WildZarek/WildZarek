@@ -12,9 +12,7 @@
 
 ## :wolf: About Me
 
-<div>
-  <img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?&logo=42&logoColor=white&style=for-the-badge" /><a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="Intra Badge" src="https://img.shields.io/badge/dsarmien-white?style=for-the-badge"></a>
-</div>
+<img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?&logo=42&logoColor=white&style=for-the-badge" /><a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="Intra Badge" src="https://img.shields.io/badge/dsarmien-white?style=for-the-badge"></a>
 
 - :books: As a student at 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
 
