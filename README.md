@@ -228,12 +228,10 @@ A list of my discovered CVE's:
 
 ## :bar_chart: My Github Stats
 
-<p align="center">
-  <img alt="Languages-Per-Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WildZarek&theme=chartreuse_dark" />
-  <img alt="Languages-Per-Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WildZarek&theme=chartreuse_dark" />
-</p>
-
-<br/>
+<!-- <p align="center">
+  <img alt="WildZarek's Languages per Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WildZarek&theme=chartreuse_dark" />
+  <img alt="WildZarek's Languages per Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WildZarek&theme=chartreuse_dark" />
+</p> -->
 
 <p align="center">
     <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
@@ -254,15 +252,24 @@ A list of my discovered CVE's:
 </p>
 
 <br/>
-<br/>
 
-## Contact me:
+## Trophies
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsarmien@student.42malaga.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildzarek/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/712878759954481222/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WildZarek)
+The following badges summarize my activity on this platform.
+
+<a href="https://github.com/WildZarek">
+  <img src="https://github-trophies.vercel.app/?username=WildZarek&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
+  <br/>
+  <img src="https://github-trophies.vercel.app/?username=WildZarek&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
+</a>
+
+## Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dsarmien@student.42malaga.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wildzarek/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/channels/@me/712878759954481222/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/WildZarek)
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek) -->
 
-## Visits:
+## Visits
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
