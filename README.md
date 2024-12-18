@@ -3,7 +3,7 @@
   <a href="#"><img width="100%" height="auto" src="./header_1500x500.jfif" height="175px"/></a>
   <h1 class="custom-font">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
   <a href="https://www.linkedin.com/in/wildzarek/">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&pause=1000&color=46FF01&center=true&width=435&lines=I'm+WildZarek;Welcome+to+my+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=46FF01&center=true&vCenter=true&random=false&width=435&lines=I'm+WildZarek;Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
   <h3 align="center">42 Málaga Student | Cybersecurity Analyst | Jr. Pentester | CTF Player | <em>Red Team</em> 🔴</h3>
   <p align="center">
