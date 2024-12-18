@@ -12,7 +12,11 @@
 
 ## :wolf: About Me
 
-- :books: As a student from <a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?&logo=42&logoColor=white&style=for-the-badge" /></a>, I'm passionate about **Cybersecurity** and **Programming**.
+<div>
+  <img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?&logo=42&logoColor=white&style=for-the-badge" /><a href="https://profile.intra.42.fr/users/dsarmien" target="_blank"><img alt="Intra Badge" src="https://img.shields.io/badge/dsarmien-white?style=for-the-badge"></a>
+</div>
+
+- :books: As a student at 42 Málaga, I'm passionate about **Cybersecurity** and **Programming**.
 
 - :seedling: I'm currently interested in **Ethical Hacking** and **Pentesting** (as a Red Team member)
 
@@ -225,8 +229,11 @@ A list of my discovered CVE's:
 ## :bar_chart: My Github Stats
 
 <p align="center">
-  <img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WildZarek&theme=chartreuse-dark" />
+  <img alt="Languages-Per-Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WildZarek&theme=chartreuse_dark" />
+  <img alt="Languages-Per-Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WildZarek&theme=chartreuse_dark" />
 </p>
+
+<br/>
 
 <p align="center">
     <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
