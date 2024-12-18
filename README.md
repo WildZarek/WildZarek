@@ -225,6 +225,10 @@ A list of my discovered CVE's:
 ## :bar_chart: My Github Stats
 
 <p align="center">
+  <img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WildZarek&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
     <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
 </p>
 
