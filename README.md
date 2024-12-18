@@ -83,7 +83,7 @@ students develop technical and problem-solving skills in a dynamic and challengi
       </td>
     </tr>
     <tr>
-      <td>🧑‍💻 Programming Languages</td>
+      <td>🧑‍💻 Software Development</td>
       <td>
         <a href="https://www.gnu.org/software/bash/" title="Bash Scripting" target="_blank">
           <img src="https://img.shields.io/badge/Bash-000.svg?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash Scripting" />
@@ -139,7 +139,7 @@ students develop technical and problem-solving skills in a dynamic and challengi
       </td>
     </tr>
     <tr>
-      <td>📖 Project Documentation</td>
+      <td>📖 Documentation</td>
       <td>
         <a href="https://www.markdownguide.org/basic-syntax/" title="Markdown" target="_blank">
           <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown" />
