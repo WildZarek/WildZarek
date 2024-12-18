@@ -1,3 +1,4 @@
+<!-- HEADER SECTION -->
 <div align="center">
   <a href="#"><img width="100%" height="auto" src="./header_1500x500.jfif" height="175px"/></a>
   <h1 class="custom-font">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
@@ -9,6 +10,8 @@
     <a href="https://wildzarek.github.io" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-wildzarek.github.io-blue?logo=google-chrome&style=flat"></a>  <a href="https://wakatime.com/@WildZarek" target="_blank"><img src="https://wakatime.com/badge/user/0b845aa6-d061-4358-81b1-77d5029d7d59.svg" alt="Total time coded since Sep 10 2024" /></a>
   </p>
 </div>
+
+<!-- ABOUT SECTION -->
 
 ## :wolf: About Me
 
@@ -31,6 +34,8 @@ Campus 42 is an innovative programming school that offers an educational approac
 With a project-based learning method and peer-to-peer collaboration,
 students develop technical and problem-solving skills in a dynamic and challenging environment.
 
+<!-- HACKTHEBOX SECTION -->
+
 ## HackTheBox Rank
 
 <p align="left">
@@ -38,6 +43,8 @@ students develop technical and problem-solving skills in a dynamic and challengi
     <img src="http://www.hackthebox.eu/badge/image/18979" alt="HackTheBox">
   </a>
 </p>
+
+<!-- SKILLS SECTION -->
 
 ## :gear: Skills
 
@@ -205,6 +212,8 @@ students develop technical and problem-solving skills in a dynamic and challengi
   </table>
 </div>
 
+<!-- CVE SECTION -->
+
 ## :page_with_curl: CVE's
 
 A list of my discovered CVE's:
@@ -223,6 +232,8 @@ A list of my discovered CVE's:
     <td>15.27 and lower</td>
   </tr>
 </table>
+
+<!-- STATS SECTION -->
 
 ## :bar_chart: My Github Stats
 
@@ -251,6 +262,8 @@ A list of my discovered CVE's:
 
 <br/>
 
+<!-- TROPHIES SECTION -->
+
 ## Trophies
 
 The following badges summarize my activity on this platform.
@@ -261,6 +274,8 @@ The following badges summarize my activity on this platform.
   <img src="https://github-trophies.vercel.app/?username=WildZarek&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
 </a>
 
+<!-- CONTACT SECTION -->
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dsarmien@student.42malaga.com)
@@ -269,5 +284,7 @@ The following badges summarize my activity on this platform.
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/WildZarek)
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek) -->
 
-## Visits
+<!-- VISITORS SECTION -->
+
+## Visitors
 ![](https://komarev.com/ghpvc/?username=WildZarek&style=for-the-badge)
