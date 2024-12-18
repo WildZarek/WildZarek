@@ -48,25 +48,25 @@ students develop technical and problem-solving skills in a dynamic and challengi
     <tr>
       <td>🖥️ Operating Systems</td>
       <td>
-        <a href="https://www.microsoft.com/es-es/software-download/windows10" title="Windows" target="_blank" style="all: unset;">
+        <a href="https://www.microsoft.com/es-es/software-download/windows10" title="Windows" target="_blank" style="text-decoration: none;;">
           <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&style=for-the-badge" alt="Windows" />
         </a>
-        <a href="https://www.linux.org/" title="Linux" title="Linux" target="_blank" style="all: unset;">
+        <a href="https://www.linux.org/" title="Linux" title="Linux" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" />
         </a>
-        <a href="https://ubuntu.com/" title="Ubuntu" title="Ubuntu" target="_blank" style="all: unset;">
+        <a href="https://ubuntu.com/" title="Ubuntu" title="Ubuntu" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" />
         </a>
-        <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank" style="all: unset;">
+        <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" alt="Debian" />
         </a>
-        <a href="https://archlinux.org/" title="Archlinux" target="_blank" style="all: unset;">
+        <a href="https://archlinux.org/" title="Archlinux" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="Archlinux" />
         </a>
-        <a href="https://www.parrotsec.org/" title="Parrot Security" target="_blank" style="all: unset;">
+        <a href="https://www.parrotsec.org/" title="Parrot Security" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Parrot-222222?logo=Parrot+Security&logoColor=15E0ED&style=for-the-badge" alt="ParrotOS" />
         </a>
-        <a href="https://www.kali.org/" title="Kali Linux" target="_blank" style="all: unset;">
+        <a href="https://www.kali.org/" title="Kali Linux" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" alt="Kali Linux" />
         </a>
       </td>
