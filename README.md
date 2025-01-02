@@ -1,4 +1,5 @@
 <!-- HEADER SECTION -->
+
 <div align="center">
   <a href="#"><img width="100%" height="auto" src="./header_1500x500.jfif" height="175px"/></a>
   <h1 class="custom-font">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
@@ -103,9 +104,9 @@ students develop technical and problem-solving skills in a dynamic and challengi
         <a href="https://www.cprogramming.com/" title="C" target="_blank">
           <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C" />
         </a>
-        <a href="https://isocpp.org/" title="C++" target="_blank">
+        <!-- <a href="https://isocpp.org/" title="C++" target="_blank">
           <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" />
-        </a>
+        </a> -->
       </td>
     </tr>
     <tr>
@@ -141,6 +142,9 @@ students develop technical and problem-solving skills in a dynamic and challengi
         </a>
         <a href="https://github.com/" title="GitHub" target="_blank">
           <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+        </a>
+        <a href="https://github.com/features/actions" title="GitHub Actions" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
         </a>
         <a href="https://pm2.io/" title="PM2" target="_blank">
           <img src="https://img.shields.io/badge/PM2-1F2156?logo=pm2&logoColor=white&style=for-the-badge" alt="PM2">
@@ -243,7 +247,7 @@ A list of my discovered CVE's:
 </p> -->
 
 <p align="center">
-    <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
+  <img alt="WildZarek's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=chartreuse-dark&hide_border=true&background=0D1117" />
 </p>
 
 <br/>
@@ -279,7 +283,7 @@ The following badges summarize my activity on this platform.
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dsarmien@student.42malaga.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wildzarek/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5?logo=linkedin-white&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wildzarek/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/channels/@me/712878759954481222/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/WildZarek)
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/wildzarek) -->
