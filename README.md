@@ -144,7 +144,7 @@ students develop technical and problem-solving skills in a dynamic and challengi
           <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
         </a>
         <a href="https://github.com/features/actions" title="GitHub Actions" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
         </a>
         <a href="https://pm2.io/" title="PM2" target="_blank">
           <img src="https://img.shields.io/badge/PM2-1F2156?logo=pm2&logoColor=white&style=for-the-badge" alt="PM2">
